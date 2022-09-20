@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "iframeur": "apps/iframeur",
+    "iframeur-e2e": "apps/iframeur-e2e"
+  }
+}
